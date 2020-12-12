@@ -36,7 +36,7 @@ public class Ex4 {
 					System.out.println(true);
 					break;
 				} else {
-					// 昇順で並び替えたため、配列の途中の値でればfalse
+					// 昇順で並び替えたため、配列の途中の値であればfalse
 					System.out.println(false);
 					break;
 				}
