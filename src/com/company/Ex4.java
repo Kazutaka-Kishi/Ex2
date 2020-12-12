@@ -23,6 +23,7 @@ public class Ex4 {
 		for (int i = 0; i < numList.length; i++) {
 			numList[i] = scanner.nextInt();
 		}
+		scanner.close();
 
 		// 昇順に並び替える
 		Arrays.sort(numList);
